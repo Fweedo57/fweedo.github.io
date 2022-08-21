@@ -17,13 +17,13 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #FBAB7E;
+    background-color: #0b00a7;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #F7CE68;
+    background-color: #0061cf;
     border-radius: 0px 60px 0px 0px;
 }
 
