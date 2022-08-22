@@ -1,3 +1,3 @@
 # fweedo57.github.io
-Aprendendo a usar o GitHub e
-postando meu currículo feito com HTML e CSS
+Currículo feito com HTML e CSS
+e aprendendo a usar o GitHub
