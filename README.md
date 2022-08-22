@@ -1,2 +1,0 @@
-# fweedo.github.io
-Currículo
